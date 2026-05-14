@@ -1,0 +1,65 @@
+{
+  "id": "4725085",
+  "name": "识别系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20438144",
+      "name": "运动打卡_俯卧撑",
+      "font_class": "yundongdaka_fuwocheng",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "1848744",
+      "name": "人脸识别",
+      "font_class": "renlianshibie1",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "3876833",
+      "name": "17 人脸识别",
+      "font_class": "renlianshibie",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "33221635",
+      "name": "车流量",
+      "font_class": "cheliuliang",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "18707185",
+      "name": "车流量态势",
+      "font_class": "cheliuliangtaishi",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "3590935",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "4572455",
+      "name": "记录",
+      "font_class": "jilu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5733321",
+      "name": "识别",
+      "font_class": "shibie",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    }
+  ]
+}
